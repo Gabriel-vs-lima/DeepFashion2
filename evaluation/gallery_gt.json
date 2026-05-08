@@ -1,0 +1,56 @@
+[
+  {
+    "gallery_image_id": 10,
+    "bbox": [15, 20, 105, 155],
+    "style": 1,
+    "pair_id": 101
+  },
+  {
+    "gallery_image_id": 11,
+    "bbox": [25, 35, 115, 165],
+    "style": 1,
+    "pair_id": 101
+  },
+  {
+    "gallery_image_id": 12,
+    "bbox": [125, 55, 205, 165],
+    "style": 1,
+    "pair_id": 102
+  },
+  {
+    "gallery_image_id": 13,
+    "bbox": [135, 65, 215, 175],
+    "style": 1,
+    "pair_id": 102
+  },
+  {
+    "gallery_image_id": 14,
+    "bbox": [35, 45, 125, 175],
+    "style": 2,
+    "pair_id": 103
+  },
+  {
+    "gallery_image_id": 15,
+    "bbox": [45, 55, 135, 185],
+    "style": 2,
+    "pair_id": 103
+  },
+  {
+    "gallery_image_id": 16,
+    "bbox": [55, 65, 145, 185],
+    "style": 1,
+    "pair_id": 104
+  },
+  {
+    "gallery_image_id": 17,
+    "bbox": [65, 75, 155, 195],
+    "style": 2,
+    "pair_id": 105
+  },
+  {
+    "gallery_image_id": 18,
+    "bbox": [75, 85, 165, 195],
+    "style": 2,
+    "pair_id": 105
+  }
+]

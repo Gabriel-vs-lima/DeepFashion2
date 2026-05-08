@@ -305,9 +305,10 @@ class COCO:
 
         print('Loading and preparing results...')
         tic = time.time()
-        if type(resFile) == str or type(resFile) == unicode:
-            anns = json.load(open(resFile))
-        elif type(resFile) == np.ndarray:
+        if isinstance(resFile, str):
+            with open(resFile, 'r') as f:
+                anns = json.load(f)
+        elif isinstance(resFile, np.ndarray):
             anns = self.loadNumpyAnnotations(resFile)
         else:
             anns = resFile

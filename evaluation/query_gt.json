@@ -1,0 +1,37 @@
+[
+  {
+    "query_image_id": 1,
+    "bbox": [10, 15, 100, 150],
+    "cls": 1,
+    "style": 1,
+    "pair_id": 101
+  },
+  {
+    "query_image_id": 1,
+    "bbox": [120, 50, 200, 160],
+    "cls": 2,
+    "style": 1,
+    "pair_id": 102
+  },
+  {
+    "query_image_id": 2,
+    "bbox": [30, 40, 120, 170],
+    "cls": 3,
+    "style": 2,
+    "pair_id": 103
+  },
+  {
+    "query_image_id": 3,
+    "bbox": [50, 60, 140, 180],
+    "cls": 1,
+    "style": 1,
+    "pair_id": 104
+  },
+  {
+    "query_image_id": 4,
+    "bbox": [70, 80, 160, 190],
+    "cls": 2,
+    "style": 2,
+    "pair_id": 105
+  }
+]
